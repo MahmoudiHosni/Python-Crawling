@@ -1,4 +1,4 @@
-urllib3==1.24.2
+urllib3==1.26.5
 newspaper3k==0.2.8
 nltk==3.4.1
 python-dateutil==2.8.0
